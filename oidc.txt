@@ -5,3 +5,4 @@ OpenID Connect (OIDC) is an open authentication protocol that works on top of th
 this relaing party depends on the sso file.
 this is insane!!
 this is an local repo copy pushed to remote
+how things are working!!
