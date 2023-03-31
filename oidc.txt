@@ -2,3 +2,7 @@ Article about OIDC
 =====================
 
 OpenID Connect (OIDC) is an open authentication protocol that works on top of the OAuth 2.0 framework. Targeted toward consumers, OIDC allows individuals to use single sign-on (SSO) to access relying party sites using OpenID Providers (OPs), such as an email provider or social network, to authenticate their identities.
+this relaing party depends on the sso file.
+this is insane!!
+this is an local repo copy pushed to remote
+how things are working!!
